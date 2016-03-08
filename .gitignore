@@ -1,0 +1,9 @@
+*.pdf
+*.ipynb
+.ipynb_checkpoints
+*.dat
+*.out
+*.tmp
+*.txt
+*.npy
+*.sdp
